@@ -9,13 +9,13 @@ description: "EpochML is building a computational cluster for the IMSA community
 
 # Team names, titles and social links
 motherboard:
-- name: Test1
-  pic: gautham.png
+- name: Ethan C
+  pic: dne.png
   position: President
   social:
     - title: fas fa-envelope
       url: mailto:ganne@epochml.org
-- name: Braeden Cullen
+- name: Cinna Davis
   pic: dne.jpg
   position: VP
   social:
@@ -23,20 +23,20 @@ motherboard:
       url: mailto:bcullen@epochml.org
     - title: fab fa-github
       url: https://github.com/BraedenCu
-- name: Shria Halkoda
+- name: etc
   pic: dne.jpg
   position: CSO
   social:
     - title: fas fa-envelope
       url: mailto:shalkoda@epochml.org
-- name: Bhavyaa Chauhan
+- name: etc
   pic: dne.jpg
   position: CFO
   social:
     - title: fas fa-envelope
       url: mailto:bchauhan@epochml.org
 - name: Anmol Singh
-  pic: dne.jpg
+  pic: https://anmolsingh.dev/pfp.jpg
   position: Alumni Chair
   social:
     - title: fas fa-envelope
