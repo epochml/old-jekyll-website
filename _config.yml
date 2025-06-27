@@ -10,7 +10,7 @@ description: "EpochML is building a computational cluster for the IMSA community
 # Team names, titles and social links
 motherboard:
 - name: Ethan C
-  pic: dne.png
+  pic: dne.jpg
   position: President
   social:
     - title: fas fa-envelope
@@ -36,7 +36,7 @@ motherboard:
     - title: fas fa-envelope
       url: mailto:bchauhan@epochml.org
 - name: Anmol Singh
-  pic: https://anmolsingh.dev/pfp.jpg
+  pic: dne.jpg
   position: Alumni Chair
   social:
     - title: fas fa-envelope
